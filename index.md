@@ -15,6 +15,6 @@
 ---
 
 - PGP
-    - 7194 caee 166e ce6b [png](7194caee166ece6b.png) [asc](7194caee166ece6b.asc)
-    - 6e20 0070 fb3a 92e3 [png](6e200070fb3a92e3.png) [asc](6e200070fb3a92e3.asc) [(old)](vouch.txt)
+    - 7194 caee 166e ce6b [png](7194caee166ece6b.png) [asc](7194caee166ece6b.txt)
+    - 6e20 0070 fb3a 92e3 [png](6e200070fb3a92e3.png) [asc](6e200070fb3a92e3.txt) [(old)](vouch.txt)
 
