@@ -6,6 +6,4 @@
 
 ---
 
-- [Linktree](https://linktr.ee/rachrasterbutt)
-- [PGP](pgp.md)
-
+- [Linktree](https://linktr.ee/ravegirlcyan)
